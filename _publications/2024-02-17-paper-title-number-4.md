@@ -1,13 +1,19 @@
 ---
-title: "Paper Title Number 4"
+title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/on-the-perception-bottleneck-of-vlms-for-chart-understanding
+date: 2025-01-02
+pub_order: 5
+venue: 'arXiv'
+excerpt: 'First author: Junteng Liu. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. GitHub code repository: [Vision4Chart](https://github.com/hkust-nlp/Vision4Chart).'
+citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. &quot;On the Perception Bottleneck of VLMs for Chart Understanding.&quot; <i>arXiv</i>, 2025.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**First author:** Junteng Liu
+
+**Co-authors:** Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+
+**Venue:** arXiv, 2025
+
+**GitHub code repository:** [Vision4Chart](https://github.com/hkust-nlp/Vision4Chart)
