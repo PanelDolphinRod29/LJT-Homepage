@@ -45,7 +45,7 @@ comments:
     num_posts:
     colorscheme:
 atom_feed:
-  hide: false
+  hide: true
   path:
 
 # Social Sharing
